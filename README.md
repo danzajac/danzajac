@@ -31,6 +31,7 @@ Please [reach out](mailto:danzajac10@gmail.com) and say hi.
 
 <h3 align="left">📜 Experience</h3>
 My background is building high performance, full stack applications for front office business users and developers, focusing on streaming data and analytics.
+<br>
 
 | | | | |
 |:--:|:--:|:--:|:--:|
