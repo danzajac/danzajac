@@ -29,6 +29,17 @@ Please [reach out](mailto:danzajac10@gmail.com) and say hi.
 
 - 📫 How to reach me **danzajac10@gmail.com**
 
+<h3 align="left">📜 Experience</h3>
+My background is building high performance, full stack applications for front office business users and developers, focusing on streaming data and analytics.
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| <img width="75" src="./static/img/tmo-logo-v4.svg" alt="T-Mobile"></img> | [T-Mobile](https://www.t-mobile.com/) | PHP/Laravel VueJS Developer | 2019- |
+| <img width="75" src="./static/img/goconfidentia_logo.jpg" alt="Confidential"></img> | [Confidential](https://www.linkedin.com/company/goconfidentia) | PHP Developer | 2017-2019 |
+| <img width="75" src="./static/img/BizEquity-logo.jpg" alt="BizEquity"></img> | [BizEquity](https://www.bizequity.com/) | Software Engineer | 2014-2017 |
+| <img width="75" src="./static/img/pnc_bank_logo.jpg" alt="PNC"></img> | [PNC](https://www.pnc.com/) | Senior PHP/Drupal Developer | 2013-2014 |
+
+
 <h3>🚀 Languages and Tools I Use</h2>
 
 <p align="left"> 
