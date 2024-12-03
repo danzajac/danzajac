@@ -132,3 +132,7 @@ Please [reach out](mailto:danzajac10@gmail.com) and say hi.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danzajac&show_icons=true&locale=en&layout=compact" alt="danzajac" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danzajac&" alt="danzajac" /></p>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
